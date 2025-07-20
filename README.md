@@ -1,10 +1,10 @@
-# 🚀 Agente Analista de Dashboard NPS
+# 🚀 Agente Analytics Dashboard NPS + IA
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![Status](https://img.shields.io/badge/Status-Ativo-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-**Sistema inteligente de análise e geração de relatórios NPS (Net Promoter Score) com integração ao Google Sheets**
+**Sistema inteligente de análise NPS com IA integrada para geração automática de insights e relatórios profissionais**
 
 > 🎯 **Projeto Portfolio** - Demonstração de habilidades em análise de dados, integração de APIs e automação de relatórios
 
@@ -12,7 +12,8 @@
 
 - 🎯 **Interface Web Moderna** - Design responsivo dark/yellow
 - 📊 **Análise Automática** - Conecta direto com Google Sheets  
-- 📑 **Relatórios PDF** - Geração automática com gráficos
+- 🤖 **IA Integrada** - Análise inteligente dos dados com insights automáticos
+- 📑 **Relatórios PDF** - Geração automática com gráficos e análises de IA
 - ⚡ **Deploy Simples** - Pronto para usar em minutos
 - 🔐 **Suporte OAuth2** - Para planilhas privadas
 
@@ -20,8 +21,8 @@
 
 ```bash
 # Clone e execute em 3 comandos
-git clone https://github.com/seu-usuario/agente-analista-dashboard.git
-cd agente-analista-dashboard
+git clone https://github.com/zarelli1/agente-analytics-dashboard.git
+cd agente-analytics-dashboard
 python frontend/server.py
 ```
 
@@ -29,12 +30,19 @@ python frontend/server.py
 
 ## 📊 **Funcionalidades**
 
+### 🤖 **IA Integrada**
+- ✅ Análise automática de padrões nos dados NPS
+- ✅ Geração de insights inteligentes sobre performance
+- ✅ Recomendações personalizadas por IA
+- ✅ Detecção automática de tendências e anomalias
+- ✅ Relatórios narrativos gerados automaticamente
+
 ### 🎯 **Análise Completa**
 - ✅ NPS Score geral e segmentado
 - ✅ Rankings de vendedores/lojas  
 - ✅ Distribuição de notas (0-10)
 - ✅ Evolução temporal
-- ✅ Insights automáticos
+- ✅ Insights automáticos gerados por IA
 
 ### 🎨 **Interface Dupla**
 - 🖥️ **Web**: Interface moderna e intuitiva
@@ -43,7 +51,7 @@ python frontend/server.py
 ### 📄 **Relatórios Profissionais**
 - 📈 Gráficos e visualizações
 - 🎯 Métricas detalhadas
-- 💡 Recomendações automáticas
+- 💡 Recomendações inteligentes geradas por IA
 - 🚨 Alertas de performance
 
 ## 🚀 **Início Rápido**
@@ -94,7 +102,8 @@ python main.py
 
 - **Backend**: Python, Pandas, ReportLab, GSpread
 - **Frontend**: HTML5, CSS3, JavaScript ES6+
-- **APIs**: Google Sheets API, OAuth2
+- **APIs**: Google Sheets API, OAuth2, OpenAI GPT
+- **IA**: Análise automática e geração de insights
 - **Design**: Responsivo, Dark Theme
 
 ## 🎯 **Casos de Uso**
@@ -119,13 +128,14 @@ MIT License - veja [LICENSE](LICENSE) para detalhes.
 ## 🎓 **Tecnologias Demonstradas**
 
 Este projeto showcases:
-- **Integração de APIs**: Google Sheets API, OAuth2
+- **Integração de APIs**: Google Sheets API, OAuth2, OpenAI
+- **Inteligência Artificial**: GPT para análise e insights automáticos
 - **Processamento de Dados**: Pandas, NumPy
 - **Visualização**: Matplotlib, ReportLab
 - **Backend**: Python, Flask
 - **Frontend**: HTML5, CSS3, JavaScript
 - **Autenticação**: OAuth2, Service Account
-- **Automatização**: Geração de relatórios automáticos
+- **Automatização**: Geração de relatórios com IA
 
 ## 👨‍💻 **Autor**
 
